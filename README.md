@@ -13,7 +13,7 @@ Un jeu du pendu simple écrit en Python.
 
 ## Utilisation
 
-Pour jouer au jeu du pendu, exécutez le fichier `hangman.py` en utilisant Python :
+Pour jouer au jeu du pendu, exécutez le fichier `main.py` en utilisant Python :
 
 
 
