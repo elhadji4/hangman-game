@@ -32,7 +32,7 @@ def player_game(random_verb, masked_verb, points):
     attempts = 0
     while attempts < max_attempts:
         print(f"Points: {points}")  
-        user_guess = input(f"Guess the verb by typing the missed character(s) for '{masked_verb}': ").lower()
+        user_guess = input(f"Guess the verb by typing the complete verb with any missing character(s) for '{masked_verb}': ").lower()
         if user_guess == random_verb.lower():
             print("Congratulations! You guessed the verb correctly.")
             # for playing mp3 file
