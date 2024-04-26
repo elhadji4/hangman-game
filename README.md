@@ -19,7 +19,8 @@ Pour jouer au jeu du pendu, exécutez le fichier `hangman.py` en utilisant Pytho
 
 ## Exemples
 
-![Capture d'écran du jeu Hangman](screenshot.png)
+![Capture d'écran du jeu Hangman](![screenshoot_game](https://github.com/elhadji4/hangman-game/assets/113442999/38b411a1-456e-4ed4-ab45-7406557e5f8b)
+)
 
 ## Contributions
 
