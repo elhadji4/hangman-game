@@ -7,7 +7,7 @@ Un jeu du pendu simple écrit en Python.
 1. Assurez-vous d'avoir Python installé sur votre ordinateur.
 2. Clonez ce dépôt : https://github.com/elhadji4/hangman-game.git
 
-3. Accédez au répertoire du projet :
+3. Accédez au répertoire du projet : https://github.com/elhadji4/hangman-game/tree/master
 
 
 
